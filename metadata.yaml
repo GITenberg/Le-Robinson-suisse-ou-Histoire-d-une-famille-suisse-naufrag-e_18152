@@ -32,6 +32,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Johann_David_Wyss
     - http://en.wikipedia.org/wiki/Johann_David_Wyss
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18152#Le-Robinson-suisse-ou-Histoire-d-une-famille-suisse-naufrag-e
 gutenberg_bookshelf: FR Jeunesse
 gutenberg_issued: '2006-04-11'
 gutenberg_type: Text
