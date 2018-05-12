@@ -1,0 +1,51 @@
+_repo: Le-Robinson-suisse-ou-Histoire-d-une-famille-suisse-naufrag-e_18152
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Montolieu, Isabelle de
+    aliases:
+    - Polier, Pauline
+    - De Montolieu, Isabelle
+    - Bottens, Jeanne Isabelle Pauline de
+    - Montolieu, Madame de (Isabelle)
+    - Montolieu, Elisabeth Jeanne Pauline Polier, baronne de
+    - Montolieu, Jeanne Isabelle Pauline Polier, baronne de
+    birthdate: 1751
+    deathdate: 1832
+    gutenberg_agent_id: '7839'
+    url: http://www.gutenberg.org/2009/agents/7839
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Isabelle_de_Montolieu
+    - http://en.wikipedia.org/wiki/Isabelle_de_Montolieu
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wyss, Johann David
+    alias: Wyss, J. D. (Johann David)
+    birthdate: 1743
+    deathdate: 1818
+    gutenberg_agent_id: '1327'
+    url: http://www.gutenberg.org/2009/agents/1327
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Johann_David_Wyss
+    - http://en.wikipedia.org/wiki/Johann_David_Wyss
+description: ''
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2006-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18152'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Islands -- Fiction'
+- !lcc 'PZ'
+- !lcc 'PT'
+- !lcsh 'Family life -- Fiction'
+- !lcsh 'Survival -- Fiction'
+title: Le Robinson suisse ou Histoire d'une famille suisse naufragée
+url: http://www.gutenberg.org/ebooks/18152
